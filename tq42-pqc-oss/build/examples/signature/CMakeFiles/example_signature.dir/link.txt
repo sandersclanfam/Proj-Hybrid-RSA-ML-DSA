@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror CMakeFiles/example_signature.dir/example_signature.cpp.o -o example_signature  ../../src/libpqc.a

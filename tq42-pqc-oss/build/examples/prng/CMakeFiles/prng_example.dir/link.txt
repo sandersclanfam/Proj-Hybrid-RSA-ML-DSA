@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror CMakeFiles/prng_example.dir/prng_example.cpp.o -o prng_example  ../../src/libpqc.a

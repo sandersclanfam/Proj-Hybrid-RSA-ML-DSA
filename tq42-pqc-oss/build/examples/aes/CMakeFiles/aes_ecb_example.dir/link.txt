@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror CMakeFiles/aes_ecb_example.dir/aes_ecb_example.cpp.o -o aes_ecb_example  ../../src/libpqc.a

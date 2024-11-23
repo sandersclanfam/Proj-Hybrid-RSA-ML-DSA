@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror CMakeFiles/benchmark_init.dir/benchmark_init.cpp.o -o benchmark_init  ../_deps/benchmark-build/src/libbenchmark.a ../src/libpqc.a -lrt

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror CMakeFiles/shake_sha3_example.dir/shake_sha3_example.cpp.o -o shake_sha3_example  ../../src/libpqc.a

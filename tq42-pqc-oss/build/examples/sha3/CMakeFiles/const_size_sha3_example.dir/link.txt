@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror CMakeFiles/const_size_sha3_example.dir/const_size_sha3_example.cpp.o -o const_size_sha3_example  ../../src/libpqc.a

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror CMakeFiles/asymmetric_container_example_1_falcon.dir/asymmetric_container_example_1_falcon.cpp.o -o asymmetric_container_example_1_falcon  ../../src/libpqc.a
