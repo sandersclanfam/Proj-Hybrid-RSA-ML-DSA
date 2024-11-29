@@ -4,7 +4,12 @@ An implementation of ML-DSA to create a hybrid RSA-2048 and ML-DSA-65 signature 
 
 ## Building 🛠️
 
+```bash
 mkdir build
+
 cd build
+
 cmake ..
+
 cmake --build .
+```
