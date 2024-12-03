@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror CMakeFiles/pbkdf2_example.dir/pbkdf2_example.cpp.o -o pbkdf2_example  ../../src/libpqc.a

@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror CMakeFiles/LibPQTest_C.dir/aes_test.c.o -o LibPQTest_C  ../src/libpqc.a

@@ -1,5 +1,0 @@
-if(EXISTS "/home/neon/Music/tq42-pqc-oss/build/test/LibPQTest_shared[1]_tests.cmake")
-  include("/home/neon/Music/tq42-pqc-oss/build/test/LibPQTest_shared[1]_tests.cmake")
-else()
-  add_test(LibPQTest_shared_NOT_BUILT LibPQTest_shared_NOT_BUILT)
-endif()

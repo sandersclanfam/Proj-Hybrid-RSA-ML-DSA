@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror CMakeFiles/aes_gcm_example.dir/aes_gcm_example.cpp.o -o aes_gcm_example  ../../src/libpqc.a

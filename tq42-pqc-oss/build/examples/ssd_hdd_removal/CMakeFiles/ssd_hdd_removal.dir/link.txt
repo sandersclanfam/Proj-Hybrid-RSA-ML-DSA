@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror CMakeFiles/ssd_hdd_removal.dir/ssd_hdd_removal.cpp.o -o ssd_hdd_removal  ../../src/libpqc.a

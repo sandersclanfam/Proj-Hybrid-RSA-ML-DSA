@@ -1,5 +1,0 @@
-#pragma once
-
-#define PQC_CIPHER_KYBER_512 0xCB03
-#define PQC_CIPHER_KYBER_768 0xCB04
-#define PQC_CIPHER_KYBER_1024 0xCB05

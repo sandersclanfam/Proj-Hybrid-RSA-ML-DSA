@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror CMakeFiles/container_example_3_write_read_to_file.dir/container_example_3_write_read_to_file.cpp.o -o container_example_3_write_read_to_file  ../../src/libpqc.a

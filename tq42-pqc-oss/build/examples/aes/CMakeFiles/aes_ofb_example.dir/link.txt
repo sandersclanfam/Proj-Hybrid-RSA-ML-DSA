@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror CMakeFiles/aes_ofb_example.dir/aes_ofb_example.cpp.o -o aes_ofb_example  ../../src/libpqc.a

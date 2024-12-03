@@ -1,5 +1,0 @@
-#pragma once
-
-#define PQC_CIPHER_ML_KEM_512 0xCB00
-#define PQC_CIPHER_ML_KEM_768 0xCB01
-#define PQC_CIPHER_ML_KEM_1024 0xCB02
